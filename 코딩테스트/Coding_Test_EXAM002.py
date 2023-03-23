@@ -12,3 +12,7 @@ def solution(text, anagram, sw):
         return answer
 
 solution("lleoH", [4, 2, 0, 1, 3], False)
+
+"""
+10번
+"""
