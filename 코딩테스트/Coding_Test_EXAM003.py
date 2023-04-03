@@ -35,3 +35,4 @@ def solution(serial):
         return (select[pSex]+"/"+select[pDev]+"/"+str(int(pTeam))+"team"+"/"+"invalid")
     
 print(solution("02131003"))
+
