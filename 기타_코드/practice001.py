@@ -13,3 +13,4 @@ for k in range(len(d)):
     print(d[k])
     result += d[k]
 print(result)
+
